@@ -1,2 +1,2 @@
-# personalwebsite
+# Personal website
 personal website sarhie.net
